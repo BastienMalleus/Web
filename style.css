@@ -1,9 +1,13 @@
 body {
-    background-color: rgb(237, 243, 243);
+
+    background-image: url(télécharger\ \(1\).jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
 }
 h1
 {
     color: rgb(237, 155, 56);
+    text-align:left;
 }
 ul
 {
