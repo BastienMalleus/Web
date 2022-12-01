@@ -68,9 +68,10 @@
   }
   
   input[type="button"]:hover {
-    cursor: pointer;
+    
     -webkit-animation: heartbeat 1.5s ease-in-out infinite both;
     animation: heartbeat 1.5s ease-in-out infinite both;
+    cursor: pointer;
   }
   
   /* ___________________________ Menu responsive ____________________________*/
@@ -279,7 +280,7 @@
   
   /* Style du verso */
   .flip-box-back {
-    background-color: #cb9520;
+    background-color: #dfc795;
     color: white;
     transform: rotateY(180deg);
   }
