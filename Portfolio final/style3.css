@@ -29,13 +29,7 @@
     background: #d3b85d;
     border: 5px solid grey;
   }
-  /* td:first-child{
-    width: 30%;
-  }
   
-  td:last-child{
-    width: 70%;
-  } */
   td {
     width: 50%;
     padding: 5px;
@@ -237,6 +231,7 @@
     padding: 20px;
     max-width: 1620px;
     margin: auto;
+    text-align: center;
   }
   
   .flip-box {
@@ -253,6 +248,7 @@
     text-align: center;
     transition: transform 0.8s;
     transform-style: preserve-3d;
+    text-align: center;
   }
   
   /* Rotation vedrticale au hover */
@@ -276,6 +272,7 @@
   .flip-box-front {
     background-color: #2a4fc9;
     color: white;
+    text-align: center;
   }
   
   /* Style du verso */
@@ -283,6 +280,7 @@
     background-color: #dfc795;
     color: white;
     transform: rotateY(180deg);
+    text-align: center;
   }
   
   footer {
